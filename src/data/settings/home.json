@@ -1,13 +1,13 @@
 {
-  "introLead": "I mean, you put your arms out there.You slit your wrist.You said, \"World, this is my blood, it's red. Just like yours, so love me.\" ",
+  "introLead": "I mean, you put your arms out there.You slit your wrist.\nYou said, \"World, this is my blood, it's red. Just like yours, so love me.\" ",
   "introMore": "更多文章请访问",
   "introMoreLinks": [
     "archive",
     "tag"
   ],
   "showIntroLead": true,
-  "showIntroMore": true,
+  "showIntroMore": false,
   "heroPresetId": "default",
   "heroImageSrc": null,
-  "heroImageAlt": "Whono theme preview"
+  "heroImageAlt": "charli's blog"
 }
