@@ -1,6 +1,6 @@
 ---
 title: 就在这里住下吧
-description: 
+description: 为什么一定要填这个
 date: 2026-06-09
 badge: Diary
 tags: [ "Diary"]
