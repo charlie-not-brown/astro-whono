@@ -1,6 +1,6 @@
 /* Markdown 排版 */
 .prose {
-  font-size: 15px;
+  font-size: 17px;
   color: var(--text);
   min-width: 0;
   overflow-wrap: anywhere;
